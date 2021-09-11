@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Tajbi
- *
- */
-module oop {
-}
